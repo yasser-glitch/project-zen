@@ -57,7 +57,7 @@ int add() {
 }
 
 int sub() {
-    int x, y;
+    int x, y; //editted
     cls();
     cout<<"SUB\n";
     cout<<"Enter first number: ";
